@@ -1,4 +1,4 @@
-### Repositories Under Development:
+### Under Development:
 
 1. [WowInfo](https://github.com/eyal-wow-addons/WowInfo)
 2. [TooltipInfo](https://github.com/eyal-wow-addons/TooltipInfo)
